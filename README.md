@@ -1,4 +1,8 @@
 # Macintosh-Classic-Reloaded
+
+![Finished Logic Board](/macclassicboard-final-rev12-release.jpg)
+![Finished Logic Board - Bottom](/macclassicboard-final-rev12-release-rear.jpg)
+
 A 1:1 Recreation of the Macintosh Classic logic board
 
 As with the Macintosh SE, many Classic's have died because of Apple's short sighted decision to add a battery to the board - and unfortunately a particularly explosive one at that! This will inevitably pop and causes a horrific amount of damage.
@@ -50,6 +54,3 @@ NoS ones available from https://www.exxoshost.co.uk/atari/store2/ - search for D
 * **SWIM Floppy Chip** - Custom Chip - available NoS from UTSource
 
 * **ROM Chip** - Toshiba TC534200 MASK ROM - Reclaim & reuse, but these are the same pinout as 27C040
-
-![Finished Logic Board](/macclassicboard-final-rev12-release.jpg)
-![Finished Logic Board - Bottom](/macclassicboard-final-rev12-release-rear.jpg)
