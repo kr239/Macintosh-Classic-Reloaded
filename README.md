@@ -27,7 +27,7 @@ These boards aren't quite enough to build a new Macintosh SE from scratch (maybe
 
 * **DB19 Connector** - Almost NLA, only really available as NoS or Reclaimed. These are a bastard to get out cause the lugs are soldered. I found that pre-heating the joint first, filled with flux, then pressing hard into the pad with the desoldering gun, waiting til you see the solder go molten, you can often schlorp out the majority of the solder and then tidy up with wick afterwards.
 
-NoS ones available from https://www.exxoshost.co.uk/atari/store2/ - search for DB19F ASCI PCB RA POST
+  NoS ones available from https://www.exxoshost.co.uk/atari/store2/ - search for DB19F ASCI PCB RA POST
 
 * **Main 14-pin Molex** - Molex P/N 39-28-1143 - Still available new - costs less than £2. Get a new one.
 
