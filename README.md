@@ -21,7 +21,7 @@ As with the Macintosh SE board - there are other components than the custom chip
 
 While it is possible to source some of the Apple custom IC's from resellers and chinese inventory warehouses, the supply cannot be guaranteed, so it is imperative that as many of the custom IC's are salvaged.
 
-These boards aren't quite enough to build a new Macintosh SE from scratch (maybe one day, though!) - so you'll need to harvest a few parts from your donor board.
+These boards aren't quite enough to build a new Macintosh Classic from scratch (maybe one day, though!) - so you'll need to harvest a few parts from your donor board.
 
 * **RAM Expansion Socket** - 2 row, 44-pin connector - may be possible to substitute an IDC header.
 
